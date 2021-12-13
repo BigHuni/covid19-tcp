@@ -9,7 +9,7 @@ TCP통신을 통해 파일을 전송 및 조회하는 프로그램
 
 * **/client/py**
     - client.py = python버전 클라이언트
-    - config.env = covid19.json 파일이 저장될 경로를 지정하는 환경변수 파일(자기 PC에서 파일이 저장될 경로로 수정)
+    - config.env = covid19.json 파일이 저장될 경로를 지정하는 환경변수 파일(로컬 PC에서 파일이 저장될 경로로 수정)
 
 * **/client/C**
     - hostip = C++버전 클라이언트
